@@ -1,0 +1,21 @@
+{
+    "app": {
+        "id": "space invaders",
+        "name": "Pampa invaders",
+        "description": "",
+        "packageName": "",
+        "iconUrl": "",
+        "category": "Giochi",
+        "developer": "Pampa",
+        "screenshots": [],
+        "repository": {
+            "repoOwner": "Casual76",
+            "repoName": "Pampa-invaders",
+            "manifestPath": "manifest.json",
+            "ref": ""
+        },
+        "stable": null,
+        "beta": null,
+        "history": []
+    }
+}
